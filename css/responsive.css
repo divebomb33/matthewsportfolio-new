@@ -1,0 +1,1578 @@
+@media (min-width:768px) and (max-width:1024px){#header .banner{margin:0}#header .banner h1{font-size:30px}#header .banner h2{font-size:38px;margin:30px 0 42px}#works .grid-left{margin:32px 0}#works .grid-left .large{width:458px}#works .grid-left .grid-box{width:229px}#works .grid-right .grid-box.large{width:96%;height:338px}#works .grid-right .browse-box,#works .grid-right .grid-box{width:48%;height:306px}#works .grid-right .browse-box .more{width:40%}#testimonial .commant{margin:0}#testimonial .commant .info{padding:25px 60px}#clients .item.large{padding:18px}#clients .item.bg{padding:12px}.circliful{margin-left:50px}#blog .large{right:70px}#footer p{font-size:15px}}@media (min-width:320px) and (max-width:480px){.section-title{font-size:32px}#slider #menu{top:5%;right:10%;width:40px;padding:20px 22px;height:40px}#slider #menu span{width:30px}#slider .logo{top:15%;left:8%}#navigation{width:180px}#navigation .nav li{margin:8px 16px}#navigation .nav li a{font-size:12px}#header .banner{margin:0}#header .banner h1{font-size:24px;line-height:30px}#header .banner h2{font-size:30px;line-height:44px}#header .banner a{margin:30px 0}#works .grid-left{width:100%}#works .grid-left .large{width:328px;float:none}#works .grid-left .grid-box,#works .grid-right,#works .grid-right .browse-box{width:100%}#works .grid-right .grid-box,#works .grid-right .grid-box.large{width:100%;height:auto}#works .grid-right .browse-box .more{width:40%}#testimonial .commant{margin-left:-10px}#testimonial .commant .claint{margin-left:0}#testimonial .commant .quote{position:absolute;top:88%;left:40%}#testimonial .commant .info{padding:33px 0 0}#testimonial .commant .info p{font-size:14px;padding-top:15px}#testimonial .commant .info h4{font-size:18px}#testimonial .commant .info h5{font-size:16px}.owl-carousel .owl-wrapper-outer{margin:65px}#blog .title{font-size:12px;padding:0}#blog .blog-item .content{width:170px;padding:5px;height:164px}#blog .blog-item .content p{padding-top:5px;font-size:12px}#feedback .btn-green{width:294px}#feedback .address{margin-top:50px}.scroll-top{padding-bottom:12px}}
+
+
+
+
+
+
+/* Medium Devices, Desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+p {
+	}	
+	
+.screenshot_sm {
+	display: none;
+}
+	
+.am-bg h2 {
+    font-size: 22px;
+}
+	
+.am-bg p {
+    font-size: 18px;
+}
+	
+.image-about-me-content .label, #design-section .label {
+    padding: 6px;
+}
+	
+.about-me-content p {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+	
+.section-title {
+    font-size: 42px;
+}
+	
+#design-section .design_name {
+    padding-top: 0;
+    font-size: 24px;
+}
+	
+.work_left_ul li, .work_right_ul li, .features_left_ul li, .features_right_ul li {
+    font-size: 12px;
+}
+	
+.hovereffect_1 h2 {
+    margin-top: 164px;
+}
+	
+.hovereffect_1 p.info {
+    margin: 72px;
+}
+	
+.about-me-content {
+    margin-bottom: 20px;
+}
+	
+.image-about-me-content .pull-left {
+    display: none;
+}
+	
+.bio_img_sm {
+    display: inline !important;
+    float: right;
+    padding: 10px;}
+	
+.am-bg h2, .am-bg p {
+    text-align: left;}
+	
+	
+.media-body {
+    padding-left: 0;
+}
+	
+.image-about-me-content {
+    margin-bottom: 0;
+}
+	
+#header .container {
+    padding-left: 0;
+    padding-right: 0;
+}
+	
+#header .banner h2 {
+    font-size: 32px;
+}
+	
+#header .banner h1 {
+    font-size: 44px;
+}
+	
+#header .banner h2 {
+    height: 44px;
+}
+	
+#design-section {
+    padding-top: 50px;
+}
+	
+#design-section .section-title {
+    margin-bottom: 15px;
+}
+	
+#design-section .design_name {
+    padding-top: 10px;
+}
+	
+.hovereffect_2 h2 {
+    margin-top: 52px;
+}
+	
+.hovereffect_2 h2 {
+    font-size: 12px;
+}
+	
+.hovereffect_2 p.info {
+    margin: 32px;
+    font-size: 15px;
+}
+	
+#testimonial-section .testimonial-quote blockquote p {
+    font-size: 18px;
+}
+	
+.hidden_testimonials p {
+    padding: 14px;
+    font-size: 18px;
+}
+	
+#contact-section p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+	
+#contact-section .social ul {
+    margin-top: 0;
+}
+	
+#header .top-header {
+    margin-top: 70px;
+}
+	
+}
+
+
+/* Small Devices, Tablets */
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	
+.floating-nav-icon {
+    top: 10px;
+    right: 10px;}
+	
+.go-top {
+    bottom: 2em;
+    right: 0.3em;}	
+
+#navigation {
+    padding-top: 0;}
+	
+.side-nav-text-1 {
+    margin-top: 10px;}
+	
+.design-btn {
+    float: left;}	
+	
+.development-btn {
+    float: right;
+	margin-top: -86px;}
+	
+.home-name {
+    padding-top: 50px;}	
+	
+.image-about-me-content .pull-left {
+    display: none;}
+	
+.am-bg h2, .am-bg p {
+    text-align: left;}	
+	
+.media-body {
+    padding-left: 0;}
+	
+#about-me-section .container {
+    width: 750px;
+    padding-left: 0;
+    padding-right: 0;}
+	
+#design-section .container {
+    width: 750px;
+    padding-left: 0;
+    padding-right: 0;}	
+
+#design-section .carousel-indicators li {
+    width: 9px;
+    height: 9px;}
+
+#design-section .carousel-indicators .active {
+    width: 10px;
+    height: 10px;}
+	
+.tabBlock-tab {
+    padding-left: 1rem;
+    padding-right: 1rem;}
+	
+.testimonial-hr {
+    margin: 10px auto;}
+	
+#development-section .container, #testimonial-section .container, #contact-section .container  {
+    padding-left: 0;
+    padding-right: 0;}
+		
+#contact-section .social-nav {
+    display: none;
+}
+	
+#design-section {
+    padding-top: 25px;
+}
+	
+.section-title {
+    margin-bottom: 15px;
+}
+	
+#development-section {
+    padding-top: 25px;
+	margin-bottom: 20px;
+}
+	
+#about-me-section {
+    padding-top: 25px;
+}
+	
+#testimonial-section {
+    padding-top: 25px;
+	padding-bottom: 25px;
+}
+	
+#contact-section {
+    padding-top: 25px;
+}
+	
+.hovereffect_1 h2 {
+    font-size: 20px;
+}
+	
+.hovereffect_1 p.info {
+    margin: 60px;
+    font-size: 16px;
+}	
+
+.hovereffect_1 h2 {
+    margin-top: 122px;
+}
+	
+.hovereffect_2 h2 {
+    margin-top: 62px;
+}
+	
+.hovereffect_2 p.info {
+    margin: 30px;
+    font-size: 14px;
+}	
+	
+	
+#contact-section .section-title {
+    margin-bottom: 10px;}
+	
+.work_left_ul li, .work_right_ul li, .features_left_ul li, .features_right_ul li {
+    padding-bottom: 2px;
+    font-size: 12px;}	
+	
+.tabBlock-pane {
+    padding-left: 0;}
+	
+.content_tabs .tabBlock-content {
+    padding-top: 10px;}
+	
+.features_left_ul {
+    padding-right: 5px;}
+	
+.tabBlock-tab {
+    font-size: 13px;}
+
+#header {
+    margin-bottom: 30px;}	
+
+.downloads-section {
+    height: 300px;}
+	
+.downloads-section-content {
+    margin-top: 0;}
+
+.tabBlock-tab::before, .tabBlock-tab::after {
+    height: 2px;
+}	
+
+#design-section .label {
+    font-size: 90%;
+}
+	
+.carousel-control.left, .carousel-control.right {
+    font-size: 30px;
+}
+	
+.control_left {
+    margin-right: 30px;
+}
+	
+.screenshot_sm {
+	display: inline;
+}
+	
+#myCarousel, #myCarousel-2, #myCarousel-3, #myCarousel-4, #myCarousel-5, #myCarousel-6 {
+	display: none;
+	}	
+
+#testimonial-section .testimonial-quote blockquote p:first-child:before {
+    left: -.2em;
+}	
+
+#testimonial-section .testimonial-quote blockquote p {
+    margin-left: 25px;
+}	
+	
+	
+#header .banner h2 {
+    height: 40px;
+}
+
+#header .banner h2 {
+    font-size: 30px;
+}	
+	
+#header .banner h1 {
+    font-size: 44px;
+}	
+	
+.section-title {
+    font-size: 44px;
+}
+
+.am-bg h2 {
+    font-size: 25px;
+}
+	
+.am-bg p {
+    font-size: 20px;
+}
+	
+.about-me-content p {
+    font-size: 18px;
+}
+	
+.about-me-content p {
+    margin-bottom: 16px;
+}
+	
+.about-me-content {
+    margin-bottom: 20px;
+}
+	
+#header {
+    margin-bottom: 0;
+}
+	
+#about-me-section hr {
+    display: none;
+}
+	
+#design-section .design_name {
+    font-size: 24px;
+}
+	
+#design-section .design_name {
+    padding-top: 0;
+}
+	
+.screenshot_sm h2 {
+    font-size: 25px;
+}
+	
+.tabBlock-tab {
+    width: 50%;
+    text-align: center;
+}
+	
+.tabBlock-pane ul {
+    margin-left: 30px;
+}
+
+.tabBlock-tab {
+    width: 50%;
+    text-align: left;
+    padding-left: 50px;
+}
+	
+#testimonial-section .testimonial-quote blockquote p {
+    font-size: 18px;
+}
+	
+#contact-section p {
+    font-size: 18px;
+}
+	
+#contact-section .social ul {
+    margin-top: 0;
+}
+	
+.tabBlock-tab::before, .tabBlock-tab::after {
+    height: 3px;
+}
+	
+.tabBlock-tab {
+    width: 40%;
+}
+	
+.work_left_ul, .features_left_ul  {
+    width: 40%;
+}
+
+#jmli_2 {
+	display: none;}
+
+#scovilleli_1 {
+    display: inline !important;
+}	
+	
+#mpli_1 {
+	display: none;}
+
+#development-section {
+    margin-bottom: 0;
+}
+	
+#testimonial-section .testimonial-quote blockquote p {
+    margin-left: 0;
+    padding-left: 25px;
+}
+	
+	
+	
+
+.downloads-section {
+    width: 100%;
+    background-image: url(../img/about/desk-new-lg.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-position: center;
+    background-size: 100%;
+	background-size: cover;
+    background-repeat: space;
+    padding-top: 0px;
+    background-color: black;
+    box-shadow: 0 0 -5px black;
+}	
+	
+.downloads-section-content .download-p {
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 18px;
+}	
+	
+.downloads-section-content {
+    margin-top: 40px;
+}
+	
+	
+	
+	
+}
+
+/* Extra Small Devices, Phones */
+@media (min-width: 1px) and (max-width: 767px) {
+	
+	
+.floating-nav-icon {
+    top: 10px;
+    right: 10px;}
+	
+.go-top {
+    bottom: 2em;
+    right: 0.3em;}	
+
+#navigation {
+    padding-top: 0;}
+	
+.side-nav-text-1 {
+    margin-top: 10px;}
+	
+.design-btn {
+    float: left;}	
+	
+.development-btn {
+    float: right;
+	margin-top: -86px;}
+	
+.home-name {
+    padding-top: 50px;}	
+	
+.image-about-me-content .pull-left {
+    display: none;}
+	
+.am-bg h2, .am-bg p {
+    text-align: left;}	
+	
+.media-body {
+    padding-left: 0;}
+
+#design-section .carousel-indicators li {
+    width: 9px;
+    height: 9px;}
+
+#design-section .carousel-indicators .active {
+    width: 10px;
+    height: 10px;}
+	
+.tabBlock-tab {
+    padding-left: 1rem;
+    padding-right: 1rem;}
+	
+.testimonial-hr {
+    margin: 10px auto;}
+		
+#contact-section .social-nav {
+    display: none;
+}
+	
+#design-section {
+    padding-top: 25px;
+}
+	
+.section-title {
+    margin-bottom: 15px;
+}
+	
+#development-section {
+    padding-top: 25px;
+	margin-bottom: 0;
+}
+	
+#about-me-section {
+    padding-top: 25px;
+}
+	
+#testimonial-section {
+    padding-top: 25px;
+	padding-bottom: 25px;
+}
+	
+#contact-section {
+    padding-top: 25px;
+}
+	
+.hovereffect_1 h2 {
+    font-size: 20px;
+}
+	
+.hovereffect_1 p.info {
+    margin: 60px;
+    font-size: 16px;
+}	
+
+.hovereffect_1 h2 {
+    margin-top: 122px;
+}
+	
+.hovereffect_2 h2 {
+    margin-top: 62px;
+}
+	
+.hovereffect_2 p.info {
+    margin: 30px;
+    font-size: 14px;
+}	
+	
+	
+#contact-section .section-title {
+    margin-bottom: 10px;}
+	
+.work_left_ul li, .work_right_ul li, .features_left_ul li, .features_right_ul li {
+    padding-bottom: 2px;
+    font-size: 12px;}	
+	
+.tabBlock-pane {
+    padding-left: 0;}
+	
+.content_tabs .tabBlock-content {
+    padding-top: 10px;}
+	
+.features_left_ul {
+    padding-right: 5px;}
+	
+.tabBlock-tab {
+    font-size: 13px;}
+
+#header {
+    margin-bottom: 30px;}	
+
+.downloads-section {
+    height: 300px;}
+	
+.downloads-section-content {
+    margin-top: 0;}
+
+.tabBlock-tab::before, .tabBlock-tab::after {
+    height: 2px;
+}	
+
+#design-section .label {
+    font-size: 90%;
+}
+	
+.carousel-control.left, .carousel-control.right {
+    font-size: 30px;
+}
+	
+.control_left {
+    margin-right: 30px;
+}
+		
+.tabBlock-tab {
+    width: 50%;
+}	
+
+.screenshot_sm {
+	display: inline;
+}
+	
+	
+.design-btn {
+    float: initial;
+}	
+	
+#header .banner a {
+    margin: 0;
+}
+	
+.development-btn {
+    float: right;
+    margin-top: 20px;
+}
+	
+.home-name {
+padding-top: 0;}
+
+	
+#header .banner h2 {
+    margin-top: 0;
+	font-size: 20px;
+	height: 35px;
+	line-height: 28px;
+}
+
+.stacked-icons-home .btn-common, .stacked-icons-home .btn-border {
+    width: 220px;
+}
+	
+.btn-border, .btn-common {
+    font-size: 16px;
+}
+	
+.development-btn {
+    float: inherit;
+}
+	
+#header .design-btn a {
+    margin-bottom: 20px;
+	margin-top: -40px;
+}
+	
+
+#header .banner .scroll {
+    margin-top: 0;
+	padding-top: 50px;
+}	
+	
+.image-about-me-content .label {
+    font-size: 80%;
+}
+	
+.about-me-content p {
+    font-size: 16px;
+}
+	
+.am-bg h2 {
+    font-size: 18px;
+}
+	
+.am-bg p {
+    font-size: 16px;
+}
+	
+.bio_img_sm {
+	display: inline !important;
+	float: right;
+	padding: 10px;}	
+
+
+#design-section .design_name {
+    font-size: 24px;
+}
+
+.site_name_desc {
+	display: inline !important;}
+
+
+.screenshot_sm h2 {
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+	
+.lb-container {
+    padding: 2px;
+}
+	
+.design_name {
+    padding-bottom: 0;
+}
+	
+#myCarousel, #myCarousel-1, #myCarousel-2, #myCarousel-3, #myCarousel-4, #myCarousel-5 {
+		display: none;}	
+	
+#design-section .design-labels {
+    margin-top: 10px;
+}	
+	
+.design_icon_down {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+	
+.screenshot_sm a:hover {
+	text-decoration: none !important;
+}	
+	
+#design-section .label {
+    font-size: 78%;
+}	
+	
+.modal-content {
+    width: 98%;
+}	
+
+#development-modal .modal-title {
+    font-size: 20px;
+}
+
+#development-modal .modal-header {
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 8px;
+}
+	
+#development-modal .modal-body h4 {
+    font-size: 18px;
+}
+	
+#development-modal .modal-body p {
+    font-size: 1em;
+    margin-left: 5px;
+    margin-right: 0px;
+}
+	
+#development-modal .modal-body ul li {
+    font-size: 0.9em;
+}
+	
+#development-modal .modal-header {
+    padding-bottom: 0;
+}
+	
+.close {
+    font-size: 18px;
+	margin-right: 8px;
+	margin-top: 3px;
+}
+	
+#development-modal .close, development-modal .close:hover {
+    background-color: transparent;
+    padding: 0px;
+	border: 0px solid white;
+}
+	
+#development-modal .close:hover {
+    color: white;
+    background-color: transparent;
+    border-radius: 0px;
+    padding: 0px;
+    border: 0px solid black;
+}	
+	
+#development-modal .modal-header {
+	padding-top: 0;	}
+
+#development-modal .close {
+    margin-top: 3px;
+}
+	
+.hovereffect_1 h2 {
+    margin-top: 112px;
+}
+	
+.section-title {
+    font-size: 35px;
+}
+	
+.hovereffect_1 .overlay, .hovereffect_2 .overlay {
+    display: none;
+}
+	
+.view_contributions .btn {
+	display: inline;
+}
+	
+#development-section  .view_contributions a{
+	display: inline !important;
+}
+	
+.hidden_testimonials p {
+    font-size: 14px;
+}	
+	
+p {
+    font-size: 14px;
+}
+	
+#testimonial-section .testimonial-quote img {
+    width: 100px;
+    height: 100px;
+}
+	
+#testimonial-section .testimonial-quote .quote-container {
+    padding-left: 120px;
+}
+
+#testimonial-section .testimonial-quote.right .quote-container {
+    padding-right: 100px;
+}
+#testimonial-section .quote-container cite {
+	text-align: right;}
+	
+#testimonial-section .right .quote-container cite {
+	text-align: left;}
+	
+#testimonial-section  .section-title {
+    margin-bottom: -10px;
+}
+	
+#testimonial-section .testimonial-quote blockquote p:first-child:before {
+    left: -.5em;
+}	
+	
+#testimonial-section .testimonial-quote blockquote p {
+    margin-left: 4px;
+}
+	
+.lb-outerContainer {
+    margin: 5px;
+}
+	
+.lb-data .lb-close {
+    margin-top: -6px;
+}
+	
+#header .banner h1 {
+    font-size: 24px;
+}
+	
+#header .banner {
+    margin: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+	margin-top: 20px;
+}
+	
+#design-section .section-title {
+    margin-bottom: -10px;
+}
+	
+#design-section .design_name {
+    padding-top: 12px;
+}
+	
+#testimonial-section .testimonial-quote cite span {
+    font-family: 'Vollkorn', serif;
+}
+	
+#about-me-section hr {
+    display: none;
+}
+	
+.downloads-section h2 {
+    font-size: 18px;
+}
+	
+.downloads-section-content .download-p {
+	margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+	
+.downloads-section-content {
+    padding: 10px;
+}
+	
+.show_all_link h2, .close_all_link h2 {
+    font-size: 18px;
+}
+	
+#contact-section .social {
+		display: none;
+	}
+	
+#below-footer .social ul {
+	display: inline !important;}
+	
+
+#below-footer .social {
+    text-align: center;
+}
+
+
+#below-footer p {
+    font-size: 12px;
+    margin-bottom: 2px;
+    margin-top: -2px;}
+
+
+.downloads-section {
+    width: 100%;
+    background-image: url(../img/about/desk-horizontal-tall.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: space;
+    padding-top: 0px;
+    background-color: #e3e4e6;
+}
+
+
+.downloads-section h2 {
+    margin-top: 5px;
+}
+
+.above-downloads-section {
+    display: none;
+}
+
+.downloads-section-content {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.downloads-section-content:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+	
+.downloads-section .remove_text {
+		display: none;
+	}	
+.download-docs {
+    text-align: center;
+    margin-top: 0;
+	display: initial;
+}	
+	
+.download-docs .btn-primary {
+    display: inherit;
+	font-size: 12px;
+	width: 120px;
+	margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 3px;
+}
+	
+	
+	
+	
+	
+	
+	
+#mobile_nav_xs {
+	display: inline !important;}
+	
+/**********************************
+Responsive navbar-brand image CSS
+- Remove navbar-brand padding for firefox bug workaround
+- add 100% height and width auto ... similar to how bootstrap img-responsive class works
+***********************************/
+
+
+
+#navigation {
+    display: none;
+}
+
+.floating-nav-icon {
+    display: none;
+}	
+
+.isStuck{
+    left:0px;
+    width:100%;
+}
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+.navbar-wrapper {
+  margin-top:20px;
+  position: relative;
+  z-index: 15;
+}
+
+.navbar.navbar-inverse.navbar-static-top {
+  background: #5cb85c;
+  border-color: #398439;
+}
+.navbar.navbar-inverse.navbar-static-top a{
+  color:#fff;
+}
+.navbar.navbar-inverse.navbar-static-top a:hover{
+  color:black;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus{
+  background: #0082BC;
+}
+.navbar-inverse .navbar-nav>.active>a:hover {
+  background: #0082BC;
+  color:#fff;
+}
+	
+.navbar.navbar-inverse.navbar-static-top a{
+    font-size: .8em;
+  }	
+		
+ .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+      border-color: #398439;
+    }
+
+  .navbar-inverse .navbar-toggle {
+	border-radius: 4px;
+    background: #0082BC;
+    background-color: #0082BC;
+	border: 1px solid white;
+  }
+
+    .navbar-inverse .navbar-toggle:hover {
+	border-radius: 4px;
+    background: #0082BC;
+    background-color: #0082BC;
+    }
+
+    .navbar-inverse .navbar-toggle:active {
+	border-radius: 4px;
+    background: #0082BC;
+    background-color: #0082BC;
+    }
+    .navbar-inverse .navbar-toggle:focus {
+	border-radius: 4px;
+    background: #0082BC;
+    background-color: #0082BC;
+    }
+
+
+  .navbar {
+    border-radius: 6px;
+  }
+    .navbar.navbar-inverse.navbar-static-top a{
+    font-size: 1.5em;
+  }
+
+  /* The navbar becomes detached from the top, so we round the corners */
+  .navbar-wrapper .navbar {
+    border-radius: 4px;
+  }
+
+
+.nav>li {
+    position: relative;
+    display: block;
+}	
+	
+.navbar .navbar-collapse {
+    text-align: initial;
+}	
+	
+.navbar .navbar-nav {
+    display: block;
+    float: none;
+}	
+	
+.navbar.navbar-inverse.navbar-static-top a {
+    color: black;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+	font-family: 'Lora', serif;
+}	
+	
+.navbar.navbar-inverse.navbar-static-top a:active {
+	background-color:transparent;
+}		
+	
+.navbar-header {
+    background-color: black;
+	border-radius: 4px;
+}	
+	
+.navbar .navbar-collapse {
+    text-align: initial;
+    margin-top: 5px;
+    background-color: white;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+}	
+	
+.navbar.navbar-inverse.navbar-static-top {
+    background: transparent;
+    border-color: #398439;
+}	
+	
+
+navbar-static-top .active a {
+    font-size: 1.5em;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Lora', serif;
+}	
+	
+.navbar {
+    border: 0px solid transparent;
+}	
+	
+.navbar-inverse .navbar-nav>.active>a {
+    background: #0082BC;
+    color: #fff;
+}	
+	
+.navbar-inverse .navbar-nav>.active>a:hover {
+    background: #0082BC;
+    color: #fff;
+}
+	
+.navbar-collapse {
+    border-top: 0px solid transparent;
+    -webkit-box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
+    box-shadow: inset 0 0px 0 rgba(255,255,255,.1);
+}	
+	
+.nav>li:hover {
+    background-color: #ccc;
+}	
+	
+#header {
+    width: 100%;
+    background: url(../img/backgrounds/mobile_bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    color: #ffffff;
+}
+	
+#header:before {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+
+	
+.design-btn, .development-btn {
+    display: none;
+}
+
+#header .banner {
+    margin-top: 60px;
+}
+	
+#header .banner .scroll a i {
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+}
+
+#header .banner .scroll a i:hover {
+    border: initial;
+}
+
+#header .banner .scroll {
+    padding-top: 20px;
+}
+	
+#header .banner {
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+#header .banner .scroll {
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-top: 70px;
+}
+	
+#header .banner .scroll a i {
+    padding: 10px;
+}
+	
+.navbar-nav>li>a {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.navbar .navbar-collapse {
+    width: 180px;
+    float: right;
+}
+	
+.navbar.navbar-inverse.navbar-static-top a {
+    color: white;
+}	
+	
+.navbar .navbar-collapse {
+    background-color: black;
+    border: 0px solid #ccc;
+}
+
+.navbar.navbar-inverse.navbar-static-top a:hover {
+    color: white;
+}
+	
+.nav>li:hover {
+    background-color: #777;
+}
+	
+.navbar-header {
+    background-color: transparent;
+}
+	
+.navbar-toggle {
+    margin-right: 0;
+}
+
+.navbar .navbar-collapse {
+    margin-top: -5px;}
+	
+.navbar-nav {
+    margin: 0 -15px;}
+	
+#testimonial-section .section-title {
+    margin-bottom: 20px;}
+	
+
+.bio_img_sm {
+    width: 150px;
+}	
+	
+#header {
+    margin-bottom: 0;
+}	
+	
+#design-section .design_name {
+    font-size: 20px;
+}
+	
+#header .banner {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.am-bg p {
+    font-size: 14px;
+}
+	
+.about_name {
+		display: none;
+	}
+	
+.about-me-content p {
+    margin-bottom: 16px;
+}
+	
+.about-me-content {
+    margin-bottom: 10px;
+}
+	
+#jmli_2 {
+	display: none;}
+
+#scovilleli_1 {
+    display: inline !important;
+}	
+	
+#mpli_1 {
+	display: none;
+	}
+	
+.tabBlock-tab {
+    width: 45%;
+}	
+	
+
+.tabBlock-tab::before, .tabBlock-tab::after {
+    height: 3px;
+}
+	
+#scovilleli_1 {
+    display: none !important;
+}
+	
+.work_left_ul li, .work_right_ul li, .features_left_ul li, .features_right_ul li {
+    padding-bottom: 2px;
+    font-size: 10px;
+}
+	
+.work_left_ul li, .work_right_ul li, .features_left_ul li, .features_right_ul li {
+    padding-bottom: 6px;
+}
+
+.tabBlock-content {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+	
+testimonial-section .testimonial-quote blockquote p {
+    margin-left: 0;
+    padding-left: 4px;
+}
+	
+.downloads-section {
+    width: 100%;
+    background-image: url(../img/about/desk-new-lg.png);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-position: center;
+    background-size: 100%;
+	background-size: cover;
+    background-repeat: space;
+    padding-top: 0px;
+    background-color: black;
+    box-shadow: 0 0 -5px black;
+}	
+	
+.downloads-section-content .download-p {
+    margin-left: 20px;
+    margin-right: 20px;
+	margin-bottom: 20px;
+    font-size: 14px;
+}	
+	
+.downloads-section-content {
+    margin-top: 60px;
+}
+
+.downloads-section h2 {
+    margin-top: 15px;
+    text-transform: uppercase;
+	font-family: 'Vollkorn', serif;
+	font-size: 22px;
+}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Extra extra!!! Super-duper Small Devices, Phones */
+@media (min-width: 1px) and (max-width: 340px) {
+	
+#header .banner h2 {
+    font-size: 16px;
+}	
+
+#header .banner h1 {
+    font-size: 20px;
+}
+	
+.bio_img_sm {
+    width: 150px;
+}	
+	
+.about-me-content p {
+    font-size: 12px;
+}
+
+.am-bg p {
+    font-size: 12px;
+}
+
+.image-about-me-content .label, #design-section .label {
+    padding: 5px;
+}
+	
+.about-me-content p {
+    margin-bottom: 10px;
+}
+	
+.section-title {
+    font-size: 28px;
+}
+	
+#design-section .design_name {
+    font-size: 18px;
+}
+	
+.tabBlock-tab {
+    font-size: 11.5px;
+}
+	
+.work_left_ul li, .work_right_ul li, .features_left_ul li, .features_right_ul li {
+    font-size: 11px;
+}
+	
+.visit_site_btn .btn, .visit_site_btn .btn:hover {
+    background-color: #0082BC;
+    color: white;
+    width: 100%;
+    margin-top: -20px;
+    text-transform: uppercase;
+    transition: color 0.3s ease-out,
+ background-color 0.3s ease-out,
+ border-color 0.3s ease-out;
+    text-decoration: none;
+    border-color: #0082BC;
+    border: 1px solid #0082BC;
+    font-weight: 700;
+	font-size: 12px;
+}
+	
+#development-section .visit_site_btn .btn {
+    margin-top: 10px;
+}
+	
+#development-modal .modal-title {
+    font-size: 15px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+	
+#development-modal .modal-body h4 {
+    font-size: 14px;
+}
+	
+#development-modal .modal-body p {
+    font-size: 11px;
+}
+
+#development-modal .modal-body ul li {
+    font-size: 11px;
+}
+	
+#development-modal .modal-footer .btn-default, #development-modal .modal-footer .btn-default:hover {
+    font-size: 11px;
+    padding: 6px; 
+}
+	
+#development-modal .modal-footer {
+    padding: 6px 16px;
+    margin-top: 10px;
+}	
+	
+.remove_the {
+		display: none;}
+
+
+#testimonial-section .testimonial-quote .quote-container p {
+    font-size: 12px;
+}
+	
+#testimonial-section .testimonial-quote .quote-container {
+    padding-left: 110px;
+}
+	
+#testimonial-section .testimonial-quote cite {
+    font-size: 11px;
+}
+	
+.testimonial-click-text {
+    font-size: 11px !important;
+}
+	
+.hidden_testimonials p {
+    font-size: 12px;
+    padding: 12px;
+}
+	
+#contact-section p {
+    font-size: 12px;
+}
+	
+#contact-section label {
+    font-size: 11px;
+}
+	
+#contact-section .form-control {
+    font-size: 11px;
+}
+	
+#contact-section .help-block {
+    font-size: 11px;
+}
+	
+#contact-section .btn.disabled {
+    font-size: 12px;
+    height: 30px;
+}
+	
+#contact-section .btn-success {
+    font-size: 12px;
+    height: 30px;
+}
+	
+.tabBlock {
+    margin: 0 0 2.5rem;
+    display: none;
+}
+	
+#design-section .visit_site_btn .btn {
+    margin-top: 1px;
+}
+	
+.downloads-section-content {
+    margin-top: 30px;
+}
+	
+.downloads-section h2 {
+    margin-top: 10px;
+    font-size: 16px;
+}
+	
+.downloads-section-content .download-p {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+	
+downloads-section-content {
+    padding-bottom: 15px;
+}
+	
+.download-docs .btn-primary {
+    font-size: 11px;
+}
+
+	
+}
+
+
+

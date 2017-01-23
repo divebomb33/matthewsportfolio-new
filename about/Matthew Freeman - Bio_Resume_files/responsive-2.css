@@ -1,0 +1,698 @@
+
+/* Med - Laptop (993-1200px) *************************************************/
+@media (min-width: 993px) and (max-width: 1200px) {
+
+nav li {
+	padding-top: 4px;
+	font-size: 14px;
+}
+
+#nav-heading a{
+	font-size: 20px;
+}
+
+.oswald {
+	font-size: 13.5px;
+	}
+
+footer p {
+	font-size: 14px;
+	font-family: 'Patua One', cursive;
+}
+
+hr.style-one{
+	margin: 0;
+}
+
+h4 i {
+    font-size: 17px;
+}
+
+header {
+	padding-top: 80px;
+	padding-bottom: 20px;
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 50px;
+    margin-top: -22px;
+}
+
+#development-page .hovereffect h2 {
+	font-size:32px;
+	}
+	
+#small-development .hovereffect-3 h2 {
+	font-size: 16px;
+    padding-top: 0;
+	margin-top:0;
+	margin-top:8px;
+	}	
+	
+#small-development .btn {
+	font-size:14px;
+    margin-top: 2px;
+    padding: 8px 8px;
+	margin-bottom:6px;
+	}	
+
+.main-images-design .overlay h2 {
+    font-size: 30px;
+}
+
+#body-content .overlay h2 {
+    padding-bottom: 20px;
+    padding-top: 45px;
+}
+
+.main-images-design .overlay a {
+    font-size: 30px;
+    }
+
+#development-page .hovereffect .overlay {
+    top: 10%;
+}
+
+#design-page .hovereffect .overlay {
+    top: 6.5%;
+}
+
+.modal.in .modal-dialog {
+    padding-top: 42px;
+}
+
+#body-content h5 {
+    font-size: 20px;
+ margin: 0;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ margin-right: -50%;
+ transform: translate(-50%, -50%)
+}
+
+#body-content h6 {
+    font-size: 20px;
+ margin: 0;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ margin-right: -50%;
+ transform: translate(-50%, -50%)
+}
+
+.nav>li>a {
+    padding: 12px 18px;
+}
+
+#nav-heading a {
+    font-size: 22px;
+}
+
+
+/* slide 1 */
+#slider-1 .carousel-caption {
+    padding-bottom: 0px;
+    padding-right:0;
+    }
+
+#slider-1 .carousel-caption h1 {
+    font-size: 70px;
+  padding-left: 0;
+  margin-right: 200px;
+    }
+    
+#slider-1 .carousel-caption li {
+    font-size: 30px;
+  padding-left: 0;
+    }
+
+  #slider-1 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 200px;
+}
+
+/* slide 2 */
+#slider-2 .carousel-caption {
+    padding-bottom: 190px;
+    padding-right:0;
+    }
+
+#slider-2 .carousel-caption h1 {
+    font-size: 70px;
+  padding-left: 0;
+  margin-left: 390px;
+    }
+    
+#slider-2 .carousel-caption li {
+    font-size: 30px;
+    }
+
+#slider-2 .carousel-caption ul {
+  padding-left: 0;
+  margin-left: 390px;
+
+}
+    
+/* slide 3 */
+#slider-3 .carousel-caption {
+    padding-bottom: 25px;
+    padding-right:0;
+    }
+
+#slider-3 .carousel-caption h1 {
+    font-size: 70px;
+  padding-left: 0;
+  margin-right: 200px;
+
+    }
+    
+#slider-3 .carousel-caption li {
+    font-size: 30px;
+    }
+
+#slider-3 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 200px;
+}
+    
+/* slide 4 */
+#slider-4 .carousel-caption {
+    padding-bottom: 94px;
+    padding-right:0;
+    }
+
+#slider-4 .carousel-caption h1 {
+    font-size: 70px;
+  padding-left: 0;
+  margin-right: 210px;
+    }
+    
+#slider-4 .carousel-caption li {
+    font-size: 30px;
+    }
+
+#slider-4 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 210px;
+}
+
+    
+/* slide 5 */
+#slider-5 .carousel-caption {
+    padding-bottom: 220px;
+    padding-right:0;
+    }
+
+#slider-5 .carousel-caption h1 {
+    font-size: 70px;
+  padding-left: 0;
+  margin-left: 210px;
+    }
+    
+#slider-5 .carousel-caption li {
+    font-size: 30px;
+    }
+
+#slider-5 .carousel-caption ul {
+  padding-left: 0;
+  margin-left: 210px;
+}
+    
+/* slide 6 */
+#slider-6 .carousel-caption {
+    padding-bottom: 220px;
+    padding-right:0;
+    }
+
+#slider-6 .carousel-caption h1 {
+    font-size: 70px;
+  padding-left: 0;
+  margin-right: 200px;
+    }
+    
+#slider-6 .carousel-caption li {
+    font-size: 30px;
+    }
+
+#slider-6 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 200px;
+}
+
+#article-1 + [data-readmore-toggle] {
+	padding-top:15px;
+	padding-bottom: 0;
+	}
+	
+#article-1  p {
+    margin-bottom: 1px;
+}	
+	
+#article-2 + [data-readmore-toggle] {
+	padding-top:15px;
+	}
+	
+#article-2  p {
+    margin-bottom: 2px;
+}		
+
+#about-page .h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small {
+    font-size: 39%;
+}
+
+}
+
+/* Med - Laptop (993-1054px) *************************************************/
+@media (min-width: 993px) and (max-width: 1054px) {
+	#about-page .about-me-pic {
+		width: 100%;
+    	height: auto;
+		margin-top: 30px;
+		}
+}
+
+/* Med - Laptop (1201-1600px) *************************************************/
+@media (min-width: 1201px) and (max-width: 1600px) {
+
+nav li {
+	padding-top: 4px;
+	font-size: 14px;
+}
+
+#nav-heading a{
+	font-size: 20px;
+}
+
+.oswald {
+	font-size: 16px;
+	}
+
+footer p {
+	font-size: 14px;
+	font-family: 'Patua One', cursive;
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 55px;
+    margin-top: -26px;
+}
+
+#development-page .hovereffect h2 {
+	font-size:34px;
+	}
+
+#development-page .hovereffect .overlay {
+    top: 10%;
+}
+
+#design-page .hovereffect .overlay {
+    top: 7%;
+}	
+
+.modal.in .modal-dialog {
+    padding-top: 42px;
+}
+
+.nav>li>a {
+    padding: 12px 24px;
+}
+
+#nav-heading a {
+    font-size: 26px;
+}
+
+}
+
+/* Large - Laptop (1601-2000px) *************************************************/
+@media (min-width: 1201px) and (max-width: 1600px) {
+
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 60px;
+}
+
+#development-page .hovereffect h2 {
+	font-size:36px;
+	}
+
+#development-page .hovereffect .overlay {
+    top: 10%;
+}
+
+#design-page .hovereffect .overlay {
+    top: 7%;
+}	
+
+/* slide 1 */
+#slider-1 .carousel-caption {
+    padding-bottom: 0px;
+    padding-right:0;
+    }
+
+#slider-1 .carousel-caption h1 {
+    font-size: 70px;
+  padding-left: 0;
+  margin-right: 250px;
+    }
+    
+#slider-1 .carousel-caption li {
+    font-size: 30px;
+  padding-left: 0;
+    }
+
+  #slider-1 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 250px;
+}
+
+
+}
+
+/* Large - Laptop (1601-2000px) *************************************************/
+@media (min-width: 1601px) and (max-width: 2000px) {
+
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 60px;
+}
+
+#development-page .hovereffect h2 {
+	font-size:36px;
+	}
+
+#development-page .hovereffect .overlay {
+    top: 10%;
+}
+
+#design-page .hovereffect .overlay {
+    top: 7%;
+}
+
+.modal.in .modal-dialog {
+    padding-top: 38px;
+}	
+
+.nav>li>a {
+    padding: 16px 26px;
+	font-size: 18px;
+}
+
+#nav-heading a {
+    font-size: 24px;
+}
+
+}
+
+
+
+/* CSS for height and width parameters *************************************************/
+
+/* Large Monitor setting width and height (1601-2500px) *************************************************/
+@media (min-width: 200px) and (max-width: 2000px) and (min-height: 320px) and (max-height: 399px) {
+
+.carousel-caption { 
+padding-bottom:10px;
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 55px;
+    margin-top: -60px;
+}
+
+}
+
+/* Large Monitor setting width and height (1601-2500px) *************************************************/
+@media (min-width: 200px) and (max-width: 2000px) and (min-height: 400px) and (max-height: 489px) {
+
+.carousel-caption { 
+padding-bottom:60px;
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 55px;
+    margin-top: -60px;
+}
+
+}
+
+/* Large Monitor setting width and height (1601-2500px) *************************************************/
+@media (min-width: 200px) and (max-width: 2000px) and (min-height: 490px) and (max-height: 550px) {
+
+.carousel-caption { 
+padding-bottom:150px;
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 55px;
+    margin-top: -80px;
+}
+
+}
+
+/* Large Monitor setting width and height (1601-2500px) *************************************************/
+@media (min-width: 400px) and (max-width: 2500px) and (min-height: 800px) and (max-height: 1000px) {
+
+.carousel-caption { 
+text-align:left;
+padding-bottom:320px;
+
+}
+
+}
+
+/* Exact screen size large work monitor *************************************************/
+@media (width: 1920px) and (height: 955px) {
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 55px;
+    margin-top: -30px;
+}
+}
+
+/* My phone Galaxy Note 5 *************************************************/
+@media (min-height: 500px) and (max-height: 550px) and (min-width: 250px) and (max-width: 300px){
+.vertical-container {
+    height: 350px;
+}
+
+#homepage-slider .carousel-indicators li{
+    width: 6px;
+    height: 6px;
+}
+
+#homepage-slider .carousel-indicators .active{
+    width: 8px;
+    height: 8px;
+}
+
+}
+
+/* My phone *************************************************/
+@media (min-width: 412px) and (max-width: 1550px) and (min-height: 651px) and (max-height: 700px) {
+.vertical-container {
+    height: 175px;
+}
+
+#homepage-slider .carousel-indicators li{
+    width: 6px;
+    height: 6px;
+}
+
+#homepage-slider .carousel-indicators .active{
+    width: 8px;
+    height: 8px;
+}
+
+#homepage-slider .icon-prev{
+    display: none;
+}
+
+#homepage-slider .icon-next{
+    display: none;
+}
+
+
+}
+
+/* iPhone 5 *************************************************/
+@media (min-width: 320px) and (max-width: 350px) and (min-height: 560px) and (max-height: 580px) {
+.vertical-container {
+    height: 17px;
+}
+
+#homepage-slider .carousel-indicators li{
+    width: 6px;
+    height: 6px;
+}
+
+#homepage-slider .carousel-indicators .active{
+    width: 8px;
+    height: 8px;
+}
+
+#homepage-slider .icon-prev{
+    display: none;
+}
+
+#homepage-slider .icon-next{
+    display: none;
+}
+
+/* slide 1 */
+#slider-1 .carousel-caption {
+    padding-bottom: 0px;
+    padding-right:0;
+	
+    }
+
+#slider-1 .carousel-caption h1 {
+    font-size: 20px;
+  padding-left: 0;
+  margin-right: 180px;
+  color:white;
+    }
+    
+#slider-1 .carousel-caption li {
+    font-size: 12px;
+  padding-left: 0;
+  color:white;
+    }
+
+  #slider-1 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 70px;
+}
+
+/* slide 2 */
+#slider-2 .carousel-caption {
+    padding-bottom: 20px;
+    padding-right:0;
+    }
+
+#slider-2 .carousel-caption h1 {
+    font-size: 20px;
+  padding-left: 0;
+  margin-left: 130px;
+  color:white;
+    }
+    
+#slider-2 .carousel-caption li {
+    font-size: 12px;
+	color:white;
+    }
+
+#slider-2 .carousel-caption ul {
+  padding-left: 0;
+  margin-left: 130px;
+
+}
+    
+/* slide 3 */
+#slider-3 .carousel-caption {
+    padding-bottom: 0px;
+    padding-right:0;
+    }
+
+#slider-3 .carousel-caption h1 {
+    font-size: 20px;
+  padding-left: 0;
+  margin-right: 60px;
+
+    }
+    
+#slider-3 .carousel-caption li {
+    font-size: 12px;
+    }
+
+#slider-3 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 60px;
+}
+    
+/* slide 4 */
+#slider-4 .carousel-caption {
+    padding-bottom: 10px;
+    padding-right:0;
+    }
+
+#slider-4 .carousel-caption h1 {
+    font-size: 20px;
+  padding-left: 0;
+  margin-right: 70px;
+    }
+    
+#slider-4 .carousel-caption li {
+    font-size: 12px;
+    }
+
+#slider-4 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 70px;
+}
+
+    
+/* slide 5 */
+#slider-5 .carousel-caption {
+    padding-bottom: 20px;
+    padding-right:0;
+    }
+
+#slider-5 .carousel-caption h1 {
+    font-size: 20px;
+  padding-left: 0;
+  margin-left: 60px;
+    }
+    
+#slider-5 .carousel-caption li {
+    font-size: 12px;
+    }
+
+#slider-5 .carousel-caption ul {
+  padding-left: 0;
+  margin-left: 60px;
+}
+    
+/* slide 6 */
+#slider-6 .carousel-caption {
+    padding-bottom: 20px;
+    padding-right:0;
+    }
+
+#slider-6 .carousel-caption h1 {
+    font-size: 20px;
+  padding-left: 0;
+  margin-right: 60px;
+    }
+    
+#slider-6 .carousel-caption li {
+    font-size: 12px;
+    }
+
+#slider-6 .carousel-caption ul {
+  padding-left: 0;
+  margin-right: 60px;
+}
+
+.about-body-p .carousel-indicators li{
+    width: 6px;
+    height: 6px;
+}
+
+.about-body-p .carousel-indicators .active{
+    width: 8px;
+    height: 8px;
+}
+
+.about-body-p .carousel-indicators {
+    bottom: 0px;
+}
+}
+
+
+
+
+
+
+
+
+
